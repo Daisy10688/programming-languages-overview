@@ -52,9 +52,15 @@ int main() {
 }
 ```
 The important part:
-```std::cout << "Hello, Evans!";```
+
+```
+std::cout << "Hello, Evans!";
+```
  means print **"Hello, Evans!"** to the screen.
  and:
-``` int main()```
+```
+int main()
+```
  is where the program starts running.
+ 
 *Written by Jeff Evans*
