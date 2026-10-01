@@ -51,6 +51,7 @@ JavaScript is a high level general purpose programming language known for its si
 ### Example of JavaScript Code
 ```javascript
 console.log("Hello, World!");
+
 ## C++
 
 This is a **general-purpose programming language** that lets you build software by giving the computer precise instructions.
