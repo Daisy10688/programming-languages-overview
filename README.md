@@ -1,8 +1,9 @@
 # programming-languages-overview
-A collaborative guide by Daisy Awuor, Jeff Evans and
+A collaborative guide by Daisy Awuor, Jeff Evans and Tasha Faith
 ## Table of contents
 -[Introduction](#introduction)
--[Python](#Javascript)
+-[Python](#Python)
+-[Javascript](#Javascript)
 -[C++](#C++)
 ## Introduction
 This guide provides an overview of essential programming languages used in software development. Each section is written by a different team member.
