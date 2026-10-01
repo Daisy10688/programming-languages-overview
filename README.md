@@ -4,10 +4,10 @@ A collaborative guide by Daisy Awuor, Jeff Evans and Tasha Faith
 
 ## Table of contents
 
--[Introduction](#introduction)
--[Python](#Python)
--[Javascript](#Javascript)
--[C++](#C++)
+- [Introduction](#introduction)
+- [Python](#Python)
+- [Javascript](#Javascript)
+- [C++](#C++)
 
 ## Introduction
 
