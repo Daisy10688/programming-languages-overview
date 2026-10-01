@@ -59,13 +59,13 @@ It is known for being fast, powerful and giving you a lot of control over how th
 
 For example, it's used in:
 
-- 🎮 Game development — major game engines such as Unreal Engine use C++.
-- 🖥️ Desktop software — applications where performance matters.
-- 🚗 Automotive systems — software inside vehicles and embedded systems.
-- 🤖 Robotics — controlling hardware and processing sensor data.
+- 🎮 Game development — Major game engines such as Unreal Engine use C++.
+- 🖥️ Desktop software — Applications where performance matters.
+- 🚗 Automotive systems — Software inside vehicles and embedded systems.
+- 🤖 Robotics — Controlling hardware and processing sensor data.
 - ⚙️ Operating systems and system software
-- 📈 High-performance applications — where speed and efficiency are important.
-- 💹 Financial systems — some trading and financial infrastructure uses C++ because of its performance.
+- 📈 High-performance applications — Where speed and efficiency are important.
+- 💹 Financial systems — Some trading and financial infrastructure uses C++ because of its performance.
   
 This is how C++ differs from HTML and CSS, imagine they all represent people:
 HTML → tells the browser what exists
