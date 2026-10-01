@@ -50,7 +50,7 @@ JavaScript is a high level general purpose programming language known for its si
 
 ### Example of JavaScript Code
 ```javascript
-console.log("Hello, World!");
+console.log("Hello, World!")
 
 ## C++
 
