@@ -14,8 +14,6 @@ A collaborative guide by Daisy Awuor, Jeff Evans and Tasha Faith
 This guide provides an overview of essential programming languages used in software development. Each section is written by a different team member.
 
 ## Python
-
-*written by Daisy Awuor*
 **Python** is a high level general purpose programming language known for its simple and readable syntax. It is widely used by beginners and profesional developers because it is relatively easy to learn and can be used to create many different types of applications.
 ### Why Learn Python
 - It has simple and easy to understand syntax.
@@ -31,7 +29,7 @@ This guide provides an overview of essential programming languages used in softw
 ```python
 print("Hello, World")
 ```
-
+*written by Daisy Awuor*
 ## JavaScript
 *written by Tasha Faith*
 JavaScript is a high level general purpose programming language known for its simple and interactive nature. It is widely used by beginners and professional developers because it runs directly in the browser and can be used to create dynamic and interactive websites.
@@ -95,3 +93,10 @@ int main()
  is where the program starts running.
  
 *Written by Jeff Evans*
+
+### Ressourse
+-[MDM Web
+docs](https://developer.mozilla.org/) - A useful resourse for learning HTML,CSS and Javascript.
+-[W3Schools](https://www.w3schools.com/) - Beginner-friendly tutorials and examples for web development.
+-[Python
+Documentation](https://docs.python.org/3/) -Official documentation and learning resources for Python.
