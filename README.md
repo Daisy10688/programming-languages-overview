@@ -94,7 +94,7 @@ int main()
  
 *Written by Jeff Evans*
 
-### Ressourse
+### Resources
 -[MDM Web
 docs](https://developer.mozilla.org/) - A useful resourse for learning HTML,CSS and Javascript.
 -[W3Schools](https://www.w3schools.com/) - Beginner-friendly tutorials and examples for web development.
